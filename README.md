@@ -2,6 +2,8 @@
 
 ![Shop](https://raw.github.com/stripe/shop/master/examples/screenshot.png)
 
+9/8 Jay added some edits. fun!
+
 This project contains the code behind the single-page store at [Stripe
 Shop](https://shop.stripe.com). We ported the backend to
 [Parse](https://parse.com/)'s Code Cloud so you can easily launch and
